@@ -20,6 +20,7 @@ My goal is to work as an AI Engineer.
 - 🎓 B.Tech CSE (AI/ML), 3rd Year
 - 📍 India
 - 🔍 Looking for a paid AI/ML internship
+  
 
 
 
