@@ -45,7 +45,7 @@ My goal is to work as an AI Engineer.
 
 **On the roadmap:**
 
-[![Future Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,docker,linux,aws&theme=dark)](https://skillicons.dev)
+[![Future Skills](https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode&theme=dark)
 
 
 
@@ -77,6 +77,10 @@ Voice-controlled desktop assistant that handles commands like opening applicatio
 
 `Python` &nbsp; `Scikit-learn`
 
+### 🏆 Certifications
+- 🐍 HackerRank Python — 5 Star
+- 📊 Kaggle Python Certificate
+
 
 
 ## GitHub Stats
@@ -97,19 +101,16 @@ Voice-controlled desktop assistant that handles commands like opening applicatio
 
 
 ## Connect With Me
-
-[![LinkedIn](www.linkedin.com/in/kashish-arya-062249383)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashish-arya-062249383)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kashish7714)
 &nbsp;
-[![Email](kashish7714ar@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kashish7714ar@gmail.com)
 
 
 ## A Few Things About Me
 
 - Projects teach more than tutorials. Something has to break before you actually learn it.
 - I debug by reading the error message carefully before reaching for Google.
-- My GitHub contribution graph motivates me more than any streak app.
-- I'm learning German — slowly, but it's moving.
 - I think getting the basics right matters more than knowing ten frameworks poorly.
 
 
