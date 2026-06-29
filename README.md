@@ -37,11 +37,8 @@ My goal is to work as an AI Engineer.
 
 **Using now:**
 
-[![Current Skills](https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode,jupyter&theme=dark)](https://skillicons.dev)
+[![Current Skills](https://skillicons.dev/icons?i=python,c,git,github,vscode,jupyter&theme=dark)](https://skillicons.dev)
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
 **On the roadmap:**
 
