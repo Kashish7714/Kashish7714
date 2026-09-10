@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Kashish Arya
+#  Kashish 
 
 **B.Tech CSE (AI & ML) · 3rd Year · India**
 
